@@ -1,0 +1,8 @@
+You can't ask the weather with this kind of sentence : 
+"   Weather in two days in Paris   "
+
+Because after the, "in", the chatbot will wait for a city.
+
+However, you can ask : 
+"   Weather in 2 days in Paris   "
+"   Weather on monday in Paris   "
